@@ -6,7 +6,7 @@ Neste projeto foram utilizadas as seguintes tecnologias:
 
 Este é um projeto de aprendizado, este curso está disponível no YouTube.
 
-## Parte 1 -
+## Parte 1 - https://youtu.be/5-JBPNNJDFs
 
 a. Criação de um aplicativo com o Spring Initializr (start.spring.io)
 b. Entendimento da Anotação do application - @SpringBootApplication
