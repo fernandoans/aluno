@@ -1,0 +1,20 @@
+meta {
+  name: Incluir Aluno
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://localhost:8080/alunos
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "matricula": 1,
+    "nome": "Fernando Anselmo",
+    "email": "fernandoa@decus.com",
+    "genero": "M"
+  }
+}
